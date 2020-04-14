@@ -11,7 +11,7 @@
 
 ## About Laracraft
 
-Laracraft is a startup kit for anyone developing a blog styled project. In Laracraft the backend wordpredd inspired admin section is already built all you have to deal with is creating the front end with your desired theme layout.
+Laracraft is a startup kit for anyone developing a blog styled laravel project. In Laracraft the backend wordpress inspired admin section is already built all you have to deal with is creating the front end with your desired theme layout.
 
 The backend has catered for the essential blogin tools and user management. The backend has two sections; manage & create. Unlike other blog dev tools where everything is under the admin section. 
 
